@@ -21,7 +21,7 @@ altCover: true
 
 # Can I use ... Vue 3?
 
-실무자가 바라본 Vue 3의 현재와 현실
+실무자가 바라본 Vue 3
 
 <small>장기효(캡틴판교)</small>
 
@@ -129,7 +129,7 @@ export default defineComponent({
 
 ---
 layout: big-points
-title: 그리고 그외 API들
+title: 그리고 그 외 API
 titleRow: true
 ---
 
@@ -151,7 +151,7 @@ layout: quote
 author: 옆 팀 Vue.js 개발자
 ---
 
-# <span style="font-weight: 300;">오 그럼 이제 Vue 3를 써야겠네요?</span>
+# <span style="font-weight: 300;">오! 그럼 이제 Vue 3를 써야겠네요?</span>
 
 ---
 layout: section
@@ -277,6 +277,7 @@ layout: big-points
 titleRow: true
 ---
 
+# <Badge type="warn" style="font-size: 0.9em;line-height: 1.1em;">한 줄 요약</Badge>
 # 이미 운영중인 서비스와 <logos-internetexplorer/>가 필요한 사이트는 **Vue 2**로
 
 <br>
@@ -817,6 +818,7 @@ layout: big-points
 titleRow: true
 ---
 
+# <Badge type="warn" style="font-size: 0.9em;line-height: 1.1em;">한 줄 요약</Badge>
 # Vue 2로 배워도 문제 없는 현재의 Vue.js 개발
 
 <br>
@@ -1015,7 +1017,8 @@ layout: big-points
 titleRow: true
 ---
 
-# 지금 당장 Vue 2에서도 사용할 수 있는 Vue 3의 장점들
+# <Badge type="warn" style="font-size: 0.9em;line-height: 1.1em;">한 줄 요약</Badge>
+# Vue 2에서도 사용할 수 있는 Vue 3의 장점들
 # <div style="text-align:center;">Composition & TypeScript</div>
 
 <br>
