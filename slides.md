@@ -40,7 +40,7 @@ layout: 'intro'
 <div class="my-10 grid grid-cols-[40px,1fr] w-min gap-y-4">
   <ri-github-line class="opacity-50"/>
   <div><a href="https://github.com/joshua1988" target="_blank">CaptainPangyo</a></div>
-  <ri-user-3-line class="opacity-50"/>
+  <mdi-book-open-outline class="opacity-50" />
   <div><a href="https://joshua1988.github.io/vue-camp/" target="_blank">Cracking Vue.js</a></div>
 </div>
 
@@ -129,7 +129,7 @@ export default defineComponent({
 
 ---
 layout: big-points
-title: 그리고 그 외 API
+title: 그 외 API
 titleRow: true
 ---
 
